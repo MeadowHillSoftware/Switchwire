@@ -2,19 +2,19 @@ I N S T A L L A T I O N
 
 LINUX (32-BIT & 64-BIT)
 
-	Download Switchwire.py to a place of your choosing.
+	Download Switchwire.pyw to a place of your choosing.
 
 	Switchwire requires python 2.x. First, install Python with your package manager.
 	
 	Then, to run the program, open a terminal and type:
 	
-		python Switchwire.py
+		python Switchwire.pyw
 	
-	If you get an error like "No such file or directory," the python script (Switchwire.py) is probably not in your path.  You can try one of the following:
+	If you get an error like "No such file or directory," the python script (Switchwire.pyw) is probably not in your path.  You can try one of the following:
 	
 		You can try typing the full path of the script, such as:
 		
-			python /home/user/Switchwire.py
+			python /home/user/Switchwire.pyw
 	
 		You can change directory into the python script's folder and execute the file, such as:
 	
@@ -29,17 +29,17 @@ LINUX (32-BIT & 64-BIT)
 
 WINDOWS (2000, XP, VISTA, & 7)
 
-	Download Switchwire.py to a place of your choosing.
+	Download Switchwire.pyw to a place of your choosing.
 	
 	Switchwire requires python 2.x so that must be installed in order for the program to run.  Follow the instructions below for installation.
 	
 	Download Python from the following address:
 	
-		http://www.python.org/ftp/python/2.6.5/python-2.6.5.msi
+		http://www.pywthon.org/ftp/python/2.6.5/python-2.6.5.msi
 
 	Install Python by double-clicking python.2.6.5.msi and following the onscreen instructions
 	
-	To run Switchwire, double-click the python script (Switchwire-0.9.1.py).
+	To run Switchwire, double-click the python script (Switchwire.pyw).
 	
 	If the program doesn't run, the script is probably not in your path.  Trying copying the script to the desktop and double-clicking it.
 	
