@@ -1,0 +1,42 @@
+delay 10 *
+day 0 sunday *
+hit amarok chromium-browser vlc *
+day 1 monday *
+hit amarok chromium-browser vlc *
+phase 700 759 chromium-browser *
+phase 800 1159 *
+phase 1200 1259 amarok vlc *
+phase 1300 1659 *
+phase 2300 2359 *
+day 2 tuesday *
+hit amarok chromium-browser vlc *
+phase 700 759 chromium-browser *
+phase 800 1159 *
+phase 1200 1259 amarok vlc *
+phase 1300 1659 *
+phase 2300 2359 *
+day 3 wednesday *
+hit amarok chromium-browser vlc *
+phase 700 759 chromium-browser *
+phase 800 1159 *
+phase 1200 1259 amarok vlc *
+phase 1300 1659 *
+phase 2300 2359 *
+day 4 thursday *
+hit amarok chromium-browser vlc *
+phase 700 759 chromium-browser *
+phase 800 1159 *
+phase 1200 1259 amarok vlc *
+phase 1300 1659 *
+phase 2300 2359 *
+day 5 friday *
+hit amarok chromium-browser vlc *
+phase 700 759 chromium-browser *
+phase 800 1159 *
+phase 1200 1259 amarok vlc *
+phase 1300 1659 *
+phase 2300 2359 *
+day 6 saturday *
+hit amarok chromium-browser vlc *
+
+
