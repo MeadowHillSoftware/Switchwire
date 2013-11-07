@@ -27,7 +27,7 @@ LINUX (32-BIT & 64-BIT)
 	
 
 
-WINDOWS (2000, XP, VISTA, & 7)
+WINDOWS (2000, XP, VISTA & 7)
 
 	Download Switchwire.pyw to a place of your choosing.
 	
